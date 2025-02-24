@@ -1,5 +1,5 @@
-**Sales Analytics Dashboard
-**
+# Sales Analytics Dashboard
+
 **📌 Project Name:** Chocolate Company Sales Dashboard
 **📊 Tools Used:** Power BI, DAX, Bookmarks
 **📂 Dataset:** Chocolate Sales Data
@@ -16,6 +16,7 @@ This interactive Power BI dashboard provides insights into:
 ✅ Bookmarks & Icons: Clickable buttons to toggle visuals
 
 **📸 Dashboard Preview**
+
 See the full Dashboard here - 
 [App Power bi link](https://app.powerbi.com/view?r=eyJrIjoiMTNiNDUwMjgtY2Y3NS00MDk5LWIyZDEtMTg2Nzg0MWQzNDQ5IiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9)
 
